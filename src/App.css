@@ -63,6 +63,19 @@ font-weight: 500;
 
 }
 
+footer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(0, 0, 14, 0.953);
+  color: #fff;
+  padding: 20px;
+}
+footer span{
+  font-size: 16px;
+  padding: 10px;
+}
+
 @media only screen and (max-width:600px) {
   
 .flex-container {
