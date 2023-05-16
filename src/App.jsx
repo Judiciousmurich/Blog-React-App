@@ -18,13 +18,13 @@ function App() {
       <div className="flex-container">
         <Blog />
         <Hightlights />
-    <footer>
+      </div>
+     <footer>
           <span className="myname">JudithMuthui@theJitu</span>
           <span className="myname">
             {myDate}
           </span>
         </footer>
-      </div>
      </div>
     
   );
