@@ -13,7 +13,7 @@ function App() {
   return (
      <div className="app-container">
       <div className="header">
-        <h1>Header text</h1>
+        <h1>BLOG MEDIUM</h1>
       </div>
       <div className="flex-container">
         <Blog />
